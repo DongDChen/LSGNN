@@ -22,3 +22,9 @@ Data Download
 ADNI: https://adni.loni.usc.edu/
 ```
 
+Usage
+```js
+N-E, N-L, E-L 2 classification: python main.py
+N-E-L classification: python main_hetro.py
+```
+
