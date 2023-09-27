@@ -13,6 +13,7 @@ visdom
 networkx
 dgl
 pickle
+tqdm
 openhgnn
 ```
 
